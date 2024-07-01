@@ -1,0 +1,25 @@
+# Compiled class file
+*.class
+
+# Binaries
+bin/
+*.exe
+
+# Logfiles
+logs/
+
+# Package Files #
+#*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# configuration
+*.xml
+
+# Classpath and Project
+.classpath
+.project
